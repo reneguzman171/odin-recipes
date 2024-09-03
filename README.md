@@ -8,5 +8,7 @@ Skills Demonstrated:
 - Build HTML boilerplate
 - Build separate webpages for the website
 - Link to those webpages
-
-... rest of README to be continued
+- Embed images
+- Use atomic commit messages
+- Build unordered and ordered lists
+- Use different sized headings to separate and organize the webpages
