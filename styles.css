@@ -23,17 +23,7 @@ body {
     background-color: hsl(360, 100%, 75%);
 }
 
-img.mangu {
-    height: 300px;
-    width: auto;
-}
-
-img.broccoli {
-    height: 300px;
-    width: auto;
-}
-
-img.turkey-smch {
+img {
     height: 300px;
     width: auto;
 }
