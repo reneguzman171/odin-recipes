@@ -20,6 +20,10 @@ img {
     background-color: hsl(120, 100%, 75%);
 }
 
+p.description {
+    color: rgb(10, 10, 75);
+}
+
 .ingredients.header {
     background-color: hsl(55, 100%, 75%);
 }
