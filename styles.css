@@ -22,3 +22,18 @@ body {
 .steps.header {
     background-color: hsl(360, 100%, 75%);
 }
+
+img.mangu {
+    height: 300px;
+    width: auto;
+}
+
+img.broccoli {
+    height: 300px;
+    width: auto;
+}
+
+img.turkey-smch {
+    height: 300px;
+    width: auto;
+}
