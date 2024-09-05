@@ -2,6 +2,11 @@ body {
     font-family: Verdana, Arial, Tahoma, sans-serif;
 }
 
+img {
+    height: 300px;
+    width: auto;
+}
+
 .header {
     text-align: center;
 }
@@ -21,9 +26,4 @@ body {
 
 .steps.header {
     background-color: hsl(360, 100%, 75%);
-}
-
-img {
-    height: 300px;
-    width: auto;
 }
