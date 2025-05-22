@@ -16,6 +16,13 @@ img {
     font-weight: 900;
 }
 
+div.description {
+    margin: 0 0 0 30px;
+    width: 500px;
+    background-color: hsl(30, 77%, 76%);
+    padding-bottom: 4px;
+}
+
 .description.header {
     background-color: hsl(120, 100%, 75%);
 }
