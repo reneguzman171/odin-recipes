@@ -24,7 +24,7 @@ div.description {
 }
 
 .description.header {
-    background-color: hsl(120, 100%, 75%);
+    color: hsl(180, 80%, 25%);
 }
 
 p.description {
